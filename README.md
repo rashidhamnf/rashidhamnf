@@ -2,9 +2,10 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 
+ <marquee behavior="scroll" direction="right">
+    
 
-
-<h1 align="center">Hi 👋, I'm Fathima Rashidha</h1>
+<font-color="red"><h1 align="center"><i>Hi 👋, I'm Fathima Rashidha</i></h1></marquee></font-color>
 <h3 align="center">A passionate full Stack developer from Srilanka</h3>
 
 - 🧑‍🎓 I am an **Undergraduate at Institute of Technology University of Moratuwa**.
