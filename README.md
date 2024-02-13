@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Fathima Rashidha</h1>
 <h3 align="center">A passionate full Stack developer from Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d796978c0b2c41793465cef095dbf2d64f975a38bedb63754cee7b4528b4dd0a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31372f61332f65662f31376133656666626663666333653266633166323365353132636666353062622e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidhamnf&label=Profile%20views&color=0e75b6&style=flat" alt="rashidhamnf" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidhamnf" alt="rashidhamnf" /></a> </p>
