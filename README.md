@@ -4,7 +4,7 @@
 
  <marquee behavior="scroll" direction="right">
     
-
+<div>
 <font-color="red"><h1 align="center"><i>Hi 👋, I'm Fathima Rashidha</i></h1></marquee></font-color>
 <h3 align="center">A passionate full Stack developer from Srilanka</h3>
 
@@ -20,11 +20,11 @@
 
 - 📫 How to reach me **fathimarashidha135@gmail.com**
 
+</div>
 
 
 
-
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/d796978c0b2c41793465cef095dbf2d64f975a38bedb63754cee7b4528b4dd0a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31372f61332f65662f31376133656666626663666333653266633166323365353132636666353062622e676966">
+<img align="center" alt="Coding"  src="https://camo.githubusercontent.com/d796978c0b2c41793465cef095dbf2d64f975a38bedb63754cee7b4528b4dd0a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31372f61332f65662f31376133656666626663666333653266633166323365353132636666353062622e676966">
 
 
 
