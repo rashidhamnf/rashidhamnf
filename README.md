@@ -1,3 +1,10 @@
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--phRwdEFM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg)](https://chandanck22.github.io/portfolio/)
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Fathima Rashidha</h1>
 <h3 align="center">A passionate full Stack developer from Srilanka</h3>
 
