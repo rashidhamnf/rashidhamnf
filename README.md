@@ -14,6 +14,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidhamnf" alt="rashidhamnf" /></a> </p>
 
+- 🧑‍🎓 I am an **Undergraduate at Institute of Technology University of Moratuwa**.
+
+- 🌱 I’m currently learning **Flutter**.
+
+- 💬 Ask me about **HTML,CSS,Python,java**
+
+- 🧑‍💻 I love **Coding**.
+
+- 🤔 I’m currently **open for a new job opportunity**.
+
+- 📫 How to reach me **fathimarashidha135@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fathima rashidha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima rashidha" height="30" width="40" /></a>
