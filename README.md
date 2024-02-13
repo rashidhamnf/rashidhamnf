@@ -9,10 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Fathima Rashidha</h1>
 <h3 align="center">A passionate full Stack developer from Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d796978c0b2c41793465cef095dbf2d64f975a38bedb63754cee7b4528b4dd0a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31372f61332f65662f31376133656666626663666333653266633166323365353132636666353062622e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidhamnf&label=Profile%20views&color=0e75b6&style=flat" alt="rashidhamnf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidhamnf" alt="rashidhamnf" /></a> </p>
 
 - 🧑‍🎓 I am an **Undergraduate at Institute of Technology University of Moratuwa**.
 
@@ -25,6 +22,18 @@
 - 🤔 I’m currently **open for a new job opportunity**.
 
 - 📫 How to reach me **fathimarashidha135@gmail.com**
+
+
+
+<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/d796978c0b2c41793465cef095dbf2d64f975a38bedb63754cee7b4528b4dd0a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31372f61332f65662f31376133656666626663666333653266633166323365353132636666353062622e676966">
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashidhamnf&label=Profile%20views&color=0e75b6&style=flat" alt="rashidhamnf" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidhamnf" alt="rashidhamnf" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fathima rashidha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima rashidha" height="30" width="40" /></a>
