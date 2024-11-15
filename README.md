@@ -1,4 +1,4 @@
-[![MasterHead](https://BURNER_page-0001.jpg)](https://rashidhamnf.github.io/PORTFOLIO/)
+[![MasterHead](https://github.com/rashidhamnf/rashidhamnf/blob/main/BURNER_page-0001.jpg?raw=true))](https://rashidhamnf.github.io/PORTFOLIO/)
 
 
 
